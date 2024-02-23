@@ -8,6 +8,8 @@ Data validation: https://youtu.be/HRz9eETwBgE
 Check digit: https://youtu.be/utf-QGfs36Q
 File.io(non delimited): https://youtu.be/tp0Eh0jMwZk
 
+( finish the video but reach video upload limit on youtube, will update when i can)
+
 
 
 
